@@ -1,0 +1,2 @@
+# subscribersList
+Shortcode for MailPoet
